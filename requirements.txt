@@ -1,2 +1,2 @@
 ruuvitag-sensor==0.13.0
-redis==3.3.11
+redis==4.4.4
